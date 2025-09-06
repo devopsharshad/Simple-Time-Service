@@ -4,9 +4,9 @@
 
 It consists of:
 
-1. A minimalist Python-based web application (`SimpleTimeService`)
-2. A Docker container to package and run the app
-3. Infrastructure code written in Terraform to deploy it on AWS ECS using Fargate
+1. A minimalist Python-based web application (`SimpleTimeService`).
+2. A Docker container to package and run the application.
+3. Infrastructure code written in Terraform to deploy it on AWS ECS using Fargate.
 
 ---
 
